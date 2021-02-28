@@ -6,6 +6,7 @@ If verb is regular, use "regular verbs.py", else "irregular verbs.py".
 
 EXAMPLE:  
 ПРИМЕР:
+
 are/is/am working - Present Continuous,
 was/were working - Past Continuous,
 shall/will be working - Future Continuous,
