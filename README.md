@@ -4,7 +4,7 @@ If verb is regular, use "regular verbs.py", else "irregular verbs.py".
 Это программа, определяющая временную структуру глагола.
 Если глагол правильный, используйте "regular verbs.py", иначе "irregular verbs.py".
 
-EXAMPLE:
+EXAMPLE:  
 ПРИМЕР:
 are/is/am working - Present Continuous,
 was/were working - Past Continuous,
