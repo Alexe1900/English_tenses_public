@@ -1,8 +1,8 @@
 '''
-This is a program that defines the tense structure of a verb.
+This is a program that defines the tense structure of a regular verb.
 Write the verb in the affirmative form!
 
-Это программа, определяющая временную структуру глагола.
+Это программа, определяющая временную структуру правильного глагола.
 Напишите глагол в утвердительной форме!
 
 EXAMPLE:
