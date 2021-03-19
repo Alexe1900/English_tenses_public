@@ -23,20 +23,20 @@ have/has been working - Present Perfect Continuous,
 had been working - Past Perfect Continuous,
 shall/will have been working - Future Perfect Continuous
 
-EXAMPLE "irregular verbs.py":
-ПРИМЕР "irregular verbs.py":
-are/is/am becoming - Present Continuous,
-was/were becoming - Past Continuous,
+EXAMPLE "irregular verbs.py":  
+ПРИМЕР "irregular verbs.py":  
+are/is/am becoming - Present Continuous,  
+was/were becoming - Past Continuous,  
 shall/will be becoming - Future Continuous,
 
-become - Present Simple,
-became - Past Simple,
+become - Present Simple,  
+became - Past Simple,  
 shall/will become - Future Simple,
 
-have/has become - Present Perfect,
-had become - Past Perfect,
+have/has become - Present Perfect,  
+had become - Past Perfect,  
 shall/will have become - Future Perfect,
 
-have/has been becoming - Present Perfect Continuous,
+have/has been becoming - Present Perfect Continuous,  
 had been becoming - Past Perfect Continuous,  
 shall/will have been becoming - Future Perfect Continuous
