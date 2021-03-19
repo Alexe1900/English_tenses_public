@@ -7,24 +7,25 @@ If verb is regular, use "regular verbs.py", else "irregular verbs.py".
 EXAMPLE "regular verbs.py":  
 ПРИМЕР "regular verbs.py":
 
-are/is/am working - Present Continuous,
-was/were working - Past Continuous,
+are/is/am working - Present Continuous,  
+was/were working - Past Continuous,  
 shall/will be working - Future Continuous,
 
-work - Present Simple,
-worked - Past Simple,
+work - Present Simple,  
+worked - Past Simple,  
 shall/will work - Future Simple,
 
-have/has worked - Present Perfect,
-had worked - Past Perfect,
+have/has worked - Present Perfect,  
+had worked - Past Perfect,  
 shall/will have worked - Future Perfect,
 
-have/has been working - Present Perfect Continuous,
-had been working - Past Perfect Continuous,
+have/has been working - Present Perfect Continuous,  
+had been working - Past Perfect Continuous,  
 shall/will have been working - Future Perfect Continuous
 
 EXAMPLE "irregular verbs.py":  
-ПРИМЕР "irregular verbs.py":  
+ПРИМЕР "irregular verbs.py":
+
 are/is/am becoming - Present Continuous,  
 was/were becoming - Past Continuous,  
 shall/will be becoming - Future Continuous,
