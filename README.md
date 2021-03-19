@@ -38,5 +38,5 @@ had become - Past Perfect,
 shall/will have become - Future Perfect,
 
 have/has been becoming - Present Perfect Continuous,
-had been becoming - Past Perfect Continuous,
+had been becoming - Past Perfect Continuous,  
 shall/will have been becoming - Future Perfect Continuous
