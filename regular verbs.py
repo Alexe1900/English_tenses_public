@@ -32,7 +32,7 @@ verb = input()
 #Cheking Perfect Continuous
 #Проверка Perfect Continuous
 
-if (re.search(r'been', verb)):
+if (re.search(r'been', verb) and verb[-3:] == 'ing'):
 	if (re.match(r'had', verb)):
 		print('Past Perfect Continuous')
 		exit()
