@@ -69,10 +69,27 @@ second_form = ['had', 'got', 'found', 'bought', 'made', 'sent', 'thought',
 'wore', 'drank', 'lay', 'sang', 'swam', 'sank', 'tore', 'blessed',
 'shrank', 'swore', 'stank']
 
+
+#Cheking Simple
+#Проверка Simple
+
+if (' ' not in verb):
+	if (verb in all_form):
+		print('Present Simple / Past Simple')
+		exit()
+	elif (verb in first_form):
+		print('Present Simple')
+		exit()
+	elif (verb in second_form):
+		print('Past Simple')
+		exit()
+	else:
+		print('Such a verb isn\'t possible. Check the spelling. \n Такой глагол невозможен. Проверьте написание.')
+
 #Cheking Perfect Continuous
 #Проверка Perfect Continuous
 
-if (re.search(r'been', verb) and verb[-3:] = 'ing'):
+elif (re.search(r'been', verb) and verb[-3:] = 'ing'):
 	if (re.match(r'had', verb)):
 		print('Past Perfect Continuous')
 		exit()
@@ -116,22 +133,6 @@ elif (' ' in verb):
 		exit()
 	elif (re.match(r'will', verb) or re.match(r'shall', verb)):
 		print('Future Simple')
-		exit()
-	else:
-		print('Such a verb isn\'t possible. Check the spelling. \n Такой глагол невозможен. Проверьте написание.')
-
-#Cheking Simple
-#Проверка Simple
-
-elif (' ' not in verb):
-	if (verb in all_form):
-		print('Present Simple / Past Simple')
-		exit()
-	elif (verb in first_form):
-		print('Present Simple')
-		exit()
-	elif (verb in second_form):
-		print('Past Simple')
 		exit()
 	else:
 		print('Such a verb isn\'t possible. Check the spelling. \n Такой глагол невозможен. Проверьте написание.')
