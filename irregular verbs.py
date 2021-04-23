@@ -89,7 +89,7 @@ if (' ' not in verb):
 #Cheking Perfect Continuous
 #Проверка Perfect Continuous
 
-elif (re.search(r'been', verb) and verb[-3:] = 'ing'):
+elif (re.search(r'been', verb) and verb[-3:] == 'ing'):
 	if (re.match(r'had', verb)):
 		print('Past Perfect Continuous')
 		exit()
